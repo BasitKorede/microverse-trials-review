@@ -1,0 +1,31 @@
+
+#main{
+  width: 98%;
+  margin: 0 auto;
+  background-color: #eeeeee9f;
+  text-align: center;
+  border-radius: 6px;
+}
+
+#image{
+   max-width: 99%;
+   display: block;
+   margin: 0 auto;
+}
+
+#img-div{
+    width: 97%;
+    margin: 0 auto;
+    padding-top: 28px;
+}
+#title{
+    padding-top: 25px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.page-li{
+    width: 50%;
+    line-height: 2.25rem;
+    margin: 0 auto;
+    text-align: left;
+}
